@@ -41,7 +41,7 @@ ${STAT_CARD_LINKS_FLAG}
 ${REPO_CARD_LINKS_FLAG}
 
 
-[add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
+[add-theme]: https://github.com/Zineb-Yousfi/github-readme-statistics/edit/master/themes/index.js
 
 Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
 `;

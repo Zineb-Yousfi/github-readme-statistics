@@ -22,7 +22,7 @@ permissions:
 
 jobs:
   closeEmptyIssuesAndTemplates:
-    if: github.repository == 'anuraghazra/github-readme-stats'
+    if: github.repository == 'Zineb-Yousfi/github-readme-statistics'
     name: Close empty issues
     runs-on: ubuntu-latest
     steps:
