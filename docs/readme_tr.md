@@ -91,7 +91,7 @@ Alt kısımdaki kodu Kopyalayın ve yapıştırın. İşte bu kadar. Çok basit!
 `?username=` değerini kendi GitHub kullanıcı adınız ile değiştirin.
 
 ```md
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Anurag'nın GitHub İstatistikleri](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 _Not: Şu sıralamalar mevcut: S+ (en üst 1%), S (en üst 25%), A++ (en üst 45%), A+ (en üst 60%), and B+ (herkes).
 Buradaki değerler [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) ile hesaplanırken; commitler, katkılar, hatalar, yıldızlar, çekme istekleri, takipçiler ve sahip olunan depolar (repository) göz önünde bulundurulamaktadır.
@@ -257,7 +257,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `?exclude_repo=repo1,repo2` parametresini kullanarak istediğiniz repoları çıkartabilirsiniz.
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Belirli Dilleri Çıkartın
@@ -316,19 +316,19 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Varsayılan
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi)
 
 - Belirli istatistikler gizli
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=contribs,issues)
 
 - İkonlar gösteriliyor
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=issues&show_icons=true)
 
 - Tüm commitler dahil
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&include_all_commits=true)
 
 - Temalar
 
@@ -338,23 +338,23 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Gradient
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - İstatistik Kartını Düzenleyin
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=Zineb-yousfi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Kartın dilini seçin
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=Zineb-yousfi&locale=es)
 
 - Repo kartı düzenleyin
 
-![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - En çok kullanılan diller
 
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 - WakaTime kart
 
@@ -368,10 +368,10 @@ Genellikle resimleri yan yana düzenleyemezsiniz. Bunu yapmak için şu yaklaş�
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
 </a>
 ```
 

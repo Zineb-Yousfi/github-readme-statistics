@@ -86,7 +86,7 @@ Copiez-collez ceci dans votre Markdown, et c'est tout. C'est simple !
 Remplacez la valeur `?username=` par le nom d'utilisateur de votre GitHub.
 
 ```md
-[![Les Stats GitHub de Anurag](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Les Stats GitHub de Anurag](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 _Note: Les rangs sont calculés sur la base des statistiques de l'utilisateur, voir [src/calculateRank.js](../src/calculateRank.js)_
@@ -98,7 +98,7 @@ Pour masquer des statistiques spécifiques, vous pouvez passer un paramètre de 
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Les Stats GitHub de Anurag](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Les Stats GitHub de Anurag](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=contribs,prs)
 ```
 
 ### Afficher les icônes
@@ -106,7 +106,7 @@ Pour masquer des statistiques spécifiques, vous pouvez passer un paramètre de 
 Pour activer les icônes, vous pouvez passer `show_icons=true` dans le paramètre de requête, comme ceci :
 
 ```md
-![Les Stats GitHub de Anurag](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&show_icons=true)
+![Les Stats GitHub de Anurag](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&show_icons=true)
 ```
 
 ### Thèmes
@@ -116,7 +116,7 @@ Avec les thèmes intégrés, vous pouvez personnaliser l'apparence de la carte s
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Les Stats GitHub de Anurag](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Les Stats GitHub de Anurag](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&show_icons=true&theme=radical)
 ```
 
 #### Tous les thèmes intégrés :-
@@ -189,19 +189,19 @@ Et OUI ! Vous n'êtes plus limité à 6 dépôts épinglés.
 
 Copiez-collez ce code dans votre readme et modifiez les liens.
 
-Extrémité: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Extrémité: `api/pin?username=Zineb-yousfi&repo=github-readme-stats`
 
 ```md
-[![Carte ReadMe](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Carte ReadMe](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Démo
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 Utiliser la variable [show_owner](#customization) pour inclure le nom d'utilisateur du propriétaire du dépôt.
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # Carte des langages les + utilisés
 
@@ -213,10 +213,10 @@ _NOTE: Les langages affichés n'indiquent pas mon niveau de compétence ou quelq
 
 Copiez-collez ce code dans votre readme et modifiez les liens.
 
-Extrémité: `api/top-langs?username=anuraghazra`
+Extrémité: `api/top-langs?username=Zineb-yousfi`
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Cacher certaines langages
@@ -224,7 +224,7 @@ Extrémité: `api/top-langs?username=anuraghazra`
 Vous pouvez utiliser le paramètre `?hide=language1,language2` pour masquer les langages individuels.
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&hide=javascript,html)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Carte compacte des langages
@@ -232,16 +232,16 @@ Vous pouvez utiliser le paramètre `?hide=language1,language2` pour masquer les 
 Vous pouvez utiliser l'option `&layout=compact` pour changer le style de la carte.
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Démo
 
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 - Carte compacte
 
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 ---
 
@@ -249,41 +249,41 @@ Vous pouvez utiliser l'option `&layout=compact` pour changer le style de la cart
 
 - Défaut
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi)
 
 - Ne pas afficher des stats spécifiques
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=contribs,issues)
 
 - Afficher les icônes
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=issues&show_icons=true)
 
 - Inclure tous les commits
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&include_all_commits=true)
 
 - Thèmes
 
 Choisissez parmi l'un des [thèmes par défaut](#themes)
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&show_icons=true&theme=radical)
 
 - Dégradé
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Personnaliser la carte des stats
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=Zineb-yousfi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Personnaliser la carte dépôt
 
-![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top Langages
 
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 ---
 
@@ -293,10 +293,10 @@ En général, vous ne pourrez pas mettre les images côte à côte. Pour ce fair
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
 </a>
 ```
 

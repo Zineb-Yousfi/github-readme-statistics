@@ -91,7 +91,7 @@ Copy-paste this into your markdown content, and that's it. Simple!
 Change the `?username=` value to your GitHub's username.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 _Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](./src/calculateRank.js)_
@@ -103,7 +103,7 @@ To hide any specific stats, you can pass a query parameter `?hide=` with comma-s
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=contribs,prs)
 ```
 
 ### जोड्नु होस् निजी टोटल  योगदान
@@ -115,7 +115,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 > Options: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&count_private=true)
 ```
 
 ### देखाउनु होस् इकोन 
@@ -123,7 +123,7 @@ _Note: If you are deploying this project yourself, the private contributions wil
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&show_icons=true)
 ```
 
 ### विषयवस्तुहरू
@@ -133,7 +133,7 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&show_icons=true&theme=radical)
 ```
 
 #### सबै इनबिल्ट विषयवस्तु :-
@@ -220,19 +220,19 @@ GitHub फाल्तु पिनले तपाइँलाए GitHub री
 
 कोदलाए  कपी- पेसेत  readme मा गर्नु होला र लिंक परिवतन गर्नु होला |
 
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Endpoint: `api/pin?username=Zineb-yousfi&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### डेमो 
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # टोप भाषा कार्ड 
 
@@ -243,10 +243,10 @@ _NOTE: टोप भाषाहरुले आफ्नो सिपलाए 
 
 कोदलाए  कपी- पेसेत  readme मा गर्नु होला र लिंक परिवतन गर्नु होला |
 
-Endpoint: `api/top-langs?username=anuraghazra`
+Endpoint: `api/top-langs?username=Zineb-yousfi`
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Exclude individual repositories
@@ -254,7 +254,7 @@ Endpoint: `api/top-langs?username=anuraghazra`
 You can use `?exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### कुनै भाषा चुपौनॆ तरिका 
@@ -262,7 +262,7 @@ You can use `?exclude_repo=repo1,repo2` parameter to exclude individual reposito
 You can use `?hide=language1,language2` parameter to hide individual languages.
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&hide=javascript,html)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### धेरॆ भाषाहरु हेर्नको लागि 
@@ -270,7 +270,7 @@ You can use `?hide=language1,language2` parameter to hide individual languages.
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&langs_count=8)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### कम्प्याक्ट भाषा कार्ड ळयोउत 
@@ -278,16 +278,16 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 तपाइले `&layout=compact` ओप्तिओनपनि  कार्ड देसिग्न को लागि परहयोग गर्न सक्नु हुन्क्ष 
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### डेमो 
 
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 - Compact layout
 
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # वाका समय वीक स्तट्स 
 
@@ -309,45 +309,45 @@ Change the `?username=` value to your [WakaTime](https://wakatime.com) username.
 
 - देफौल्ट 
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi)
 
 - हिदिंग स्पेचific स्तट्स 
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=contribs,issues)
 
 - इकोनहरु शो गर्ने 
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=issues&show_icons=true)
 
 - सबै कमितहरु 
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&include_all_commits=true)
 
 - थेम्स 
 
 कुनै एउटा चोज गर्नुस [default themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&show_icons=true&theme=radical)
 
 - घ्रदिएन्त 
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - स्तत्स कार्ड लाए कस्तोमेज गर्ने    
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=Zineb-yousfi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - सेत्तिंग  कार्ड  लोचले 
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=Zineb-yousfi&locale=es)
 
 - रेपो कार्डलाई एडित गर्नु 
 
-![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - टोप भाषा 
 
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 - वक समय कार्ड 
 
@@ -361,10 +361,10 @@ Change the `?username=` value to your [WakaTime](https://wakatime.com) username.
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
 </a>
 ```
 

@@ -91,7 +91,7 @@ Kopieer en plak dit in je markdown content, zo simpel is het!
 Verander de waarde `?username=` naar jou gebruikersnaam.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 _Notitie: Beschikbare rangen zijn S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (iedereen).
@@ -106,7 +106,7 @@ Om specifieke statistieken te verbergen, kan je een `?hide=` query parameter toe
 > Opties: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=contribs,prs)
 ```
 
 ### Voeg privé contributies toe aan totale commits.
@@ -118,7 +118,7 @@ _Notitie: Als je dit project zelf deployt, zullen de privé contributies standaa
 > Opties: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&count_private=true)
 ```
 
 ### Laat icoontjes zien
@@ -126,7 +126,7 @@ _Notitie: Als je dit project zelf deployt, zullen de privé contributies standaa
 Om icoontjes te gebruiken kan je `show_icons=true` gebruiken in de query parameter, zoals hier:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&show_icons=true)
 ```
 
 ### Thema\'s
@@ -136,7 +136,7 @@ Met ingebouwde thema\'s kan je het uiterlijk van de kaart aanpassen zonder enige
 Gebruik `?theme=THEME_NAME` parameters zo :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&show_icons=true&theme=radical)
 ```
 
 #### Alle ingeboude thema\'s :-
@@ -222,19 +222,19 @@ Joepie! Je bent niet langer aan 6 pins gelimiteerd!
 
 Kopieer en plak deze code in je readme en verander de links.
 
-Eindpunt: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Eindpunt: `api/pin?username=Zineb-yousfi&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Demo
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 Gebruikt [show_owner](#customization) variabele om de repo\'s eigenaar toe te voegen
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # Top Programmeertalen Kaart
 
@@ -247,10 +247,10 @@ _Notitie: Top programmeertalen wijzen niet op een vaardigheids niveau, het is pu
 Kopieer en plak deze code in je readme en verander de links.
 
 
-Eindpunt: `api/top-langs?username=anuraghazra`
+Eindpunt: `api/top-langs?username=Zineb-yousfi`
 
 ```md
-[![Top Talen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Talen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Verberg individueele repositories
@@ -258,7 +258,7 @@ Eindpunt: `api/top-langs?username=anuraghazra`
 Je kan de parameter `?exclude_repo=repo1,repo2` gebruiken om individueele repositories te verbergen.
 
 ```md
-[![Top Talen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Talen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Verberg individueele talen
@@ -266,7 +266,7 @@ Je kan de parameter `?exclude_repo=repo1,repo2` gebruiken om individueele reposi
 Je kan de `?hide=taal1,taal2` parameter gebruiken om individuele programmeer talen te verbergen.
 
 ```md
-[![Top Talen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Talen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&hide=javascript,html)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Laat meer programmeertalen zien
@@ -274,7 +274,7 @@ Je kan de `?hide=taal1,taal2` parameter gebruiken om individuele programmeer tal
 Je kan de `&langs_count=` optie gebruiken om de hoeveelheid talen op je kaart groter en kleiner te maken. Geldige waardes zijn tussen de 1 en 10 (inclusief), en de standaard waarde is 5.
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&langs_count=8)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Compacte Talen Kaart opmaak
@@ -282,16 +282,16 @@ Je kan de `&langs_count=` optie gebruiken om de hoeveelheid talen op je kaart gr
 Je kan de `&layout=compact` optie gebruiken om het kaart ontwerp aan te passen.
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Demo
 
-[![Top programmeertalen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top programmeertalen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 - Compacte opmaak
 
-[![Top programmeertalen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top programmeertalen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&layout=compact)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # Wekelijkse WakaTime Statistieken
 
@@ -313,45 +313,45 @@ Verander de `?username=` waarde naar je [WakaTime](https://wakatime.com) gebruik
 
 - Standaard
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi)
 
 - Verberg specifieke statestieken
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=contribs,issues)
 
 - Weergeef icoontjes
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&hide=issues&show_icons=true)
 
 - Voeg alle commits toe
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&include_all_commits=true)
 
 - Thema\'s
 
 Kies uit de [standaard thema\'s](#themes)
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&show_icons=true&theme=radical)
 
 - Kleurenverloop
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Pas statistieken kaart aan
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=Zineb-yousfi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Stel je kaart locale (taal) in
 
-![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's GitHub stats](https://github-readme-statistics-pearl.vercel.app/api/?username=Zineb-yousfi&locale=es)
 
 - Pas repo kaart aan.
 
-![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top programmeertalen
 
-[![Top Programmeertalen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Programmeertalen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 - WakaTime kaart
 
@@ -365,10 +365,10 @@ Meestal kan je de afbeeldingen niet naast elkaar zetten, op deze manier wel:
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
 </a>
 ```
 
