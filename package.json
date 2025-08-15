@@ -1,9 +1,9 @@
 {
-  "name": "github-readme-stats",
+  "name": "github-readme-statistics",
   "version": "1.0.0",
   "description": "Dynamically generate stats for your GitHub readme",
   "keywords": [
-    "github-readme-stats",
+    "github-readme-statistics",
     "readme-stats",
     "cards",
     "card-generator"

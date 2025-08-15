@@ -196,19 +196,19 @@ Uhu! Você não está mais limitado a 6 repositórios fixados.
 
 Copie e cole esse código no seu README.md e altere os atributos.
 
-Endpoint: `api/pin?username=Zineb-yousfi&repo=github-readme-stats`
+Endpoint: `api/pin?username=Zineb-yousfi&repo=github-readme-statistics`
 
 ```md
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Demonstração
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 Utilize a variável [show_owner](#personalização) para incluir o nome de usuário do proprietária do repositório
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # Cartão de principais linguagens de programação
 
@@ -298,7 +298,7 @@ Escolha entre um dos [temas predefinidos](#temas)
 
 - Customizando o cartão de repositório
 
-![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-statistics&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Principais linguagens
 
@@ -312,7 +312,7 @@ Por padrão, você não poderá organizar as imagens lado a lado. Para fazer iss
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
@@ -357,7 +357,7 @@ isso demanda tempo. Utilize este serviço gratuitamente.
 
 No entanto, se você utilizar este projeto e estiver satisfeito com ele, ou apenas quiser me encorajar a continuar criando coisas, existem algumas formas fazê-lo:
 
-- Dando os devidos créditos ao usar github-readme-stats no seu README.me, adicionando uma referência ao projeto :D
+- Dando os devidos créditos ao usar github-readme-statistics no seu README.me, adicionando uma referência ao projeto :D
 - Dando uma estrela (Starring) e compartilhando o projeto 🚀
 - [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - Você pode fazer doações únicas via PayPal. Provavelmente vou comprar um ~~café~~ chá. :tea:
 

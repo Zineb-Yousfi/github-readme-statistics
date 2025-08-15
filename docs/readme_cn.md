@@ -202,25 +202,25 @@ GitHub 更多置顶 允许你在使用 GitHub readme profile 时，在个人资�
 
 复制粘贴这段代码到你的 README 文件中，并更改链接。
 
-端点: `api/pin?username=Zineb-yousfi&repo=github-readme-stats`
+端点: `api/pin?username=Zineb-yousfi&repo=github-readme-statistics`
 
 ```md
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Demo
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 使用 [show_owner](#自定义) 变量将 Repo 所有者的用户名包含在内。
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # 热门语言卡片
 
 热门语言卡片显示了 GitHub 用户常用的编程语言。
 
-_注意：热门语言并不表示我的技能水平或类似的水平，它是用来衡量用户在 github 上拥有最多代码的语言的一项指标，它是 github-readme-stats 的新特性_
+_注意：热门语言并不表示我的技能水平或类似的水平，它是用来衡量用户在 github 上拥有最多代码的语言的一项指标，它是 github-readme-statistics 的新特性_
 
 ### 使用细则
 
@@ -292,7 +292,7 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
 
 - 自定义 repo 卡片
 
-![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-statistics&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - 热门语言
 
@@ -306,7 +306,7 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
@@ -350,7 +350,7 @@ _注意：热门语言并不表示我的技能水平或类似的水平，它是�
 
 然而, 如果你正在使用这个项目并感觉良好，或只是想要支持我继续开发，你可以通过如下方式：
 
-- 在你的 readme 中使用 github-readme-stats 时，链接指向这里 :D
+- 在你的 readme 中使用 github-readme-statistics 时，链接指向这里 :D
 - Star 并 分享这个项目 :rocket:
 - [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - 你可以通过 PayPal 一次性捐款. 我多半会买一杯 ~~咖啡~~ 茶. :tea:
 

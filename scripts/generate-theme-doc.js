@@ -47,7 +47,7 @@ Want to add a new theme? Consider reading the [contribution guidelines](../CONTR
 `;
 
 const createRepoMdLink = (theme) => {
-  return `\n[${theme}_repo]: https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats&cache_seconds=86400&theme=${theme}`;
+  return `\n[${theme}_repo]: https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics&cache_seconds=86400&theme=${theme}`;
 };
 const createStatMdLink = (theme) => {
   return `\n[${theme}]: https://github-readme-statistics-pearl.vercel.app/api?username=Zineb-yousfi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=${theme}`;

@@ -126,7 +126,7 @@ Please visit [this link](https://give.do/fundraisers/stand-beside-the-victims-of
 > [!IMPORTANT]\
 > Since the GitHub API only [allows 5k requests per hour per user account](https://docs.github.com/en/graphql/overview/resource-limitations), the public Vercel instance hosted on `https://github-readme-statistics-pearl.vercel.app/api` could possibly hit the rate limiter (see [#1471](https://github.com/Zineb-Yousfi/github-readme-statistics/issues/1471)). We use caching to prevent this from happening (see https://github.com/Zineb-Yousfi/github-readme-statistics#common-options). You can turn off these rate limit protections by deploying [your own Vercel instance](#disable-rate-limit-protections).
 
-<img alt="Uptime Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub-readme-stats-git-monitoring-github-readme-stats-team.vercel.app%2Fapi%2Fstatus%2Fup%3Ftype%3Dshields">
+<img alt="Uptime Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub-readme-statistics-git-monitoring-github-readme-statistics-team.vercel.app%2Fapi%2Fstatus%2Fup%3Ftype%3Dshields">
 
 > [!IMPORTANT]\
 > We're a small team, and to prioritize, we rely on upvotes :+1:. We use the Top Issues dashboard for tracking community demand (see [#1935](https://github.com/Zineb-Yousfi/github-readme-statistics/issues/1935)). Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
@@ -448,19 +448,19 @@ Yay! You are no longer limited to 6 pinned repositories.
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/pin?username=Zineb-yousfi&repo=github-readme-stats`
+Endpoint: `api/pin?username=Zineb-yousfi&repo=github-readme-statistics`
 
 ```md
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Demo
 
-![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi\&repo=github-readme-stats)
+![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi\&repo=github-readme-statistics)
 
 Use [show\_owner](#repo-card-exclusive-options) query option to include the repo's owner username
 
-![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi\&repo=github-readme-stats\&show_owner=true)
+![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi\&repo=github-readme-statistics\&show_owner=true)
 
 # GitHub Gist Pins
 
@@ -492,7 +492,7 @@ The top languages card shows a GitHub user's most frequently used languages.
 > By default, the language card shows language results only from public repositories. To include languages used in private repositories, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
 
 > [!NOTE]\
-> Top Languages does not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats.
+> Top Languages does not indicate the user's skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-statistics.
 
 > [!WARNING]\
 > This card shows language usage only inside your own non-forked repositories, not depending on who the author of the commits is. It does not include your contributions into another users/organizations repositories. Currently there are no way to get this data from GitHub API. If you want this behavior to be improved you can support [this feature request](https://github.com/orgs/community/discussions/18230) created by [@rickstaa](https://github.com/rickstaa) inside GitHub Community.
@@ -533,7 +533,7 @@ By default, only the byte count is used for determining the languages percentage
 You can use the `&exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-statistics,anuraghazra.github.io)
 ```
 
 ### Hide individual languages
@@ -693,7 +693,7 @@ Choose from any of the [default themes](#themes)
 
 *   Customizing repo card
 
-![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi\&repo=github-readme-statistics\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 *   Gist card
 
@@ -728,7 +728,7 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
@@ -748,7 +748,7 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 ***
 
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
@@ -830,7 +830,7 @@ this takes time. You can use this service for free.
 
 However, if you are using this project and are happy with it or just want to encourage me to continue creating stuff, there are a few ways you can do it:
 
-*   Giving proper credit when you use github-readme-stats on your readme, linking back to it. :D
+*   Giving proper credit when you use github-readme-statistics on your readme, linking back to it. :D
 *   Starring and sharing the project. :rocket:
 *   [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make a one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 

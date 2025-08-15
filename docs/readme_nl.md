@@ -222,25 +222,25 @@ Joepie! Je bent niet langer aan 6 pins gelimiteerd!
 
 Kopieer en plak deze code in je readme en verander de links.
 
-Eindpunt: `api/pin?username=Zineb-yousfi&repo=github-readme-stats`
+Eindpunt: `api/pin?username=Zineb-yousfi&repo=github-readme-statistics`
 
 ```md
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Demo
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 Gebruikt [show_owner](#customization) variabele om de repo\'s eigenaar toe te voegen
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # Top Programmeertalen Kaart
 
 De top programmeertalen kaart laat zien welke talen een GitHub gebruiker het meest gebruikt.
 
-_Notitie: Top programmeertalen wijzen niet op een vaardigheids niveau, het is puur een GitHub metriek over welke talen de meeste code op GitHub hebben. Het is een nieuwe funktie van github-readme-stats._
+_Notitie: Top programmeertalen wijzen niet op een vaardigheids niveau, het is puur een GitHub metriek over welke talen de meeste code op GitHub hebben. Het is een nieuwe funktie van github-readme-statistics._
 
 ### Gebruik
 
@@ -258,7 +258,7 @@ Eindpunt: `api/top-langs?username=Zineb-yousfi`
 Je kan de parameter `?exclude_repo=repo1,repo2` gebruiken om individueele repositories te verbergen.
 
 ```md
-[![Top Talen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Talen](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-statistics,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Verberg individueele talen
@@ -347,7 +347,7 @@ Kies uit de [standaard thema\'s](#themes)
 
 - Pas repo kaart aan.
 
-![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-statistics&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top programmeertalen
 
@@ -365,7 +365,7 @@ Meestal kan je de afbeeldingen niet naast elkaar zetten, op deze manier wel:
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
@@ -409,7 +409,7 @@ Ik maak bijna alles open-source wat ik kan, en ik probeer iedereen te helpen die
 
 Hoe dan ook, als je dit project gebruikt en er blij mee bent, of mij wilt aanmoedigen om dingen te blijven maken, zijn er een paar manieren om dit te doen; -
 
-- Credits geven aan github-readme-stats op je readme, die terug naar het project linkt :D
+- Credits geven aan github-readme-statistics op je readme, die terug naar het project linkt :D
 - Sterren en delen van het project :rocket:
 - [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - Je kan eenmalig giften via PayPal, ik koop er waarschijnlijk ~~koffie~~ thee van. :tea:
 

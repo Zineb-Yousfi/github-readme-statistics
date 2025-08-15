@@ -22,7 +22,7 @@ body:
     attributes:
       label: Screenshots / Live demo link
       description: If applicable, add screenshots to help explain your problem.
-      placeholder: Paste the github-readme-stats link as markdown image
+      placeholder: Paste the github-readme-statistics link as markdown image
   - type: textarea
     attributes:
       label: Additional context

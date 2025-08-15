@@ -236,19 +236,19 @@ GitHub 저장소 여분 핀을 이용하면, 6개 이상의 저장소 핀을 여
 
 이 코드를 복사해서 여러분의 README 에 넣고 링크를 변경해주세요.
 
-엔드 포인트: `api/pin?username=Zineb-yousfi&repo=github-readme-stats`
+엔드 포인트: `api/pin?username=Zineb-yousfi&repo=github-readme-statistics`
 
 ```md
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### 미리보기
 
-[![GitHub 저장소 핀 카드](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![GitHub 저장소 핀 카드](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 [show_owner](#커스터마이징) 속성을 통해 저장소 소유자의 닉네임 표시 여부를 설정할 수 있어요.
 
-[![GitHub 저장소 핀 카드](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![GitHub 저장소 핀 카드](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # 언어 사용량 통계
 
@@ -273,7 +273,7 @@ _참고:
 `?exclude_repo=repo1,repo2` 속성을 통해 특정 저장소를 제외할 수 있어요.
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-statistics,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### 통계에서 특정 언어 제외하기
@@ -366,7 +366,7 @@ _참고:
 
 - 저장소 핀 커스터마이징하기
 
-![Anurag 님의 GitHub 저장소 핀](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Anurag 님의 GitHub 저장소 핀](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-statistics&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - 언어 사용량 통계
 
@@ -386,7 +386,7 @@ _참고:
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
@@ -441,7 +441,7 @@ GitHub API 가 시간 당 요청 개수를 5,000회로 제한한 뒤로,
 만족하시거나, 제가 이런 요소들을 만드는 데에 도움을 주고 싶으시다면,
 여러분께서 도와주실 수 있는 것들이 있어요!
 
-- github-readme-stats 를 README 에 표시하실 때 확실한 도움을 주세요! 이 저장소로 링크를 걸어주시면 돼요! :D
+- github-readme-statistics 를 README 에 표시하실 때 확실한 도움을 주세요! 이 저장소로 링크를 걸어주시면 돼요! :D
 - 이 프로젝트를 많이 공유해주시고, 즐겨찾기 해주세요! :rocket:
 - [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - PayPal 을 이용해 1회성 도네이션을 해주실 수 있어요. 아마도 전 ~~커피, 아... 아니~~ 차를 사서 마시겠죠? ㅎ; :tea:
 

@@ -222,25 +222,25 @@ Hey! Artık 6 pin ile kısıtlı kalmayacaksınız!
 
 Alttaki kodu kopyalayıp readme dosyanıza urlleri değiştirerek yapıştırın.
 
-Endpoint: `api/pin?username=mustafacagri&repo=github-readme-stats`
+Endpoint: `api/pin?username=mustafacagri&repo=github-readme-statistics`
 
 ```md
-[![ReadMe Kartı](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![ReadMe Kartı](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Demo
 
-[![ReadMe Kartı](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![ReadMe Kartı](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 [show_owner](#özelleştirmeler) ile reponun sahibini gösterebilirsiniz.
 
-[![ReadMe Kartı](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![ReadMe Kartı](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=mustafacagri&repo=github-readme-statistics&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # En Çok Kullanılan Diller
 
 En çok kullanılan diller kartı kullanıcının en çok kullandığı dilleri gösterir.
 
-_NOTE: En çok kullanılan dillerde yer alan bilgiler sizin yeteneğinizi ve benzeri şeyleri göstermek. Bu, kodlarınızda en çok kullandığınız dilleri gösteren bir GitHub metriğidir. Ayrıca, github-readme-stats'ın yeni özelliğidir.
+_NOTE: En çok kullanılan dillerde yer alan bilgiler sizin yeteneğinizi ve benzeri şeyleri göstermek. Bu, kodlarınızda en çok kullandığınız dilleri gösteren bir GitHub metriğidir. Ayrıca, github-readme-statistics'ın yeni özelliğidir.
 
 ### Kullanım
 
@@ -257,7 +257,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 `?exclude_repo=repo1,repo2` parametresini kullanarak istediğiniz repoları çıkartabilirsiniz.
 
 ```md
-[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Top Langs](https://github-readme-statistics-pearl.vercel.app/api/top-langs/?username=Zineb-yousfi&exclude_repo=github-readme-statistics,anuraghazra.github.io)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Belirli Dilleri Çıkartın
@@ -350,7 +350,7 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Repo kartı düzenleyin
 
-![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-statistics&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - En çok kullanılan diller
 
@@ -368,7 +368,7 @@ Genellikle resimleri yan yana düzenleyemezsiniz. Bunu yapmak için şu yaklaş�
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
@@ -416,7 +416,7 @@ bu zaman alıyor. Destekleriniz sayesinde bu hizmeti ücretsiz olarak kullanabil
 
 Ayrıca, bu projeyi kullanıyor ve memnunsanız veya sadece bir şeyler yaratmaya devam etmem için beni teşvik etmek istiyorsanız, bunu yapmanın birkaç yolu var: -
 
-- Readme'nizde github-readme-stats'ı kullanırken bu projeye uygun bir link verebilirsiniz.
+- Readme'nizde github-readme-statistics'ı kullanırken bu projeye uygun bir link verebilirsiniz.
 - Projeye yıldız verebilir ve paylaşabilirsiniz :rocket:
 - [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - PayPal ile tek seferlik bağış yapabilirsiniz. Muhtemelen bir ~~kahve~~ ya da çay :tea: alacağım. 
 

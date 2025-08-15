@@ -1,4 +1,4 @@
-# Contributing to [github-readme-stats](https://github.com/Zineb-Yousfi/github-readme-statistics)
+# Contributing to [github-readme-statistics](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
@@ -17,17 +17,17 @@ Pull requests are the best way to propose changes. We actively welcome your pull
 3.  If you've changed APIs, update the documentation.
 4.  Issue that pull request!
 
-## Under the hood of github-readme-stats
+## Under the hood of github-readme-statistics
 
-Interested in diving deeper into understanding how github-readme-stats works?
+Interested in diving deeper into understanding how github-readme-statistics works?
 
 [Bohdan](https://github.com/Bogdan-Lyashenko) wrote a fantastic in-depth post about it, check it out:
 
-**[Under the hood of github-readme-stats project](https://codecrumbs.io/library/github-readme-stats)**
+**[Under the hood of github-readme-statistics project](https://codecrumbs.io/library/github-readme-statistics)**
 
 ## Local Development
 
-To run & test github-readme-stats, you need to follow a few simple steps:-
+To run & test github-readme-statistics, you need to follow a few simple steps:-
 _(make sure you already have a [Vercel](https://vercel.com/) account)_
 
 1.  Install [Vercel CLI](https://vercel.com/download).

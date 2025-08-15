@@ -189,25 +189,25 @@ Et OUI ! Vous n'êtes plus limité à 6 dépôts épinglés.
 
 Copiez-collez ce code dans votre readme et modifiez les liens.
 
-Extrémité: `api/pin?username=Zineb-yousfi&repo=github-readme-stats`
+Extrémité: `api/pin?username=Zineb-yousfi&repo=github-readme-statistics`
 
 ```md
-[![Carte ReadMe](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Carte ReadMe](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 ```
 
 ### Démo
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 Utiliser la variable [show_owner](#customization) pour inclure le nom d'utilisateur du propriétaire du dépôt.
 
-[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
+[![Readme Card](https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics&show_owner=true)](https://github.com/Zineb-Yousfi/github-readme-statistics)
 
 # Carte des langages les + utilisés
 
 La carte des langages principaux montre les langages les plus utilisés par les utilisateurs de GitHub.
 
-_NOTE: Les langages affichés n'indiquent pas mon niveau de compétence ou quelque chose comme ça, c'est une métrique GitHub de quelles langages j'ai le plus de code sur GitHub, c'est une nouvelle fonctionnalité de github-readme-stats_
+_NOTE: Les langages affichés n'indiquent pas mon niveau de compétence ou quelque chose comme ça, c'est une métrique GitHub de quelles langages j'ai le plus de code sur GitHub, c'est une nouvelle fonctionnalité de github-readme-statistics_
 
 ### Usage
 
@@ -279,7 +279,7 @@ Choisissez parmi l'un des [thèmes par défaut](#themes)
 
 - Personnaliser la carte dépôt
 
-![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-statistics-pearl.vercel.app/api/pin?username=Zineb-yousfi&repo=github-readme-statistics&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top Langages
 
@@ -293,7 +293,7 @@ En général, vous ne pourrez pas mettre les images côte à côte. Pour ce fair
 
 ```html
 <a href="https://github.com/Zineb-Yousfi/github-readme-statistics">
-  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=github-readme-statistics" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-statistics-pearl.vercel.app/api/pin/?username=Zineb-yousfi&repo=convoychat" />
@@ -337,7 +337,7 @@ Je mets open-source presque tout ce que je peux, et j'essaie de répondre à tou
 
 Cependant, si vous utilisez ce projet et que vous en êtes satisfait ou si vous voulez simplement m'encourager à continuer à créer, il y a quelques façons de le faire :-
 
-- Donner un crédit approprié lorsque vous utilisez github-readme-stats sur votre readme, avec un lien vers celui-ci :D
+- Donner un crédit approprié lorsque vous utilisez github-readme-statistics sur votre readme, avec un lien vers celui-ci :D
 - Mettre une étoile et partager le projet :rocket:
 - [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - Vous pouvez faire des dons uniques via PayPal. Je vais probablement acheter un ~~café~~ thé. :tea:
 
